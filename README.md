@@ -129,7 +129,7 @@ The notebook investigates the following questions:
 ### 1. Clone the repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Abhilasha-git/primetrade-assignment
 ```
 
 ### 2. Install dependencies
